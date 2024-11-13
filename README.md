@@ -1,16 +1,9 @@
-# ft_userlist_cubit
+# A new Flutter project.
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/37411632-f066-42c6-bf26-f784ae12ede6)
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/931209a8-83e0-402b-a649-d3b9af99a4fd)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/276955e7-d4d3-4107-a6ea-04fd9fe72f3d)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/5d0d8837-3502-427b-ae13-313200c62e83)
